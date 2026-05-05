@@ -1,0 +1,4 @@
+.env
+cves.json
+cve_db/
+venv/
