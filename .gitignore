@@ -1,4 +1,16 @@
 .env
+venv/
+
+# v1 artifacts
 cves.json
 cve_db/
-venv/
+
+# v2 artifacts
+*_cves.json
+cisa_kev.json
+exploitdb.csv
+cve_db_v2/
+output/
+
+__pycache__/
+*.pyc
