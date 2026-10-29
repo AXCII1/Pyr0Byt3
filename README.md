@@ -25,7 +25,7 @@ during setup, to pull CVE data (NVD, CISA KEV, Exploit-DB) and the Ollama models
 - 16GB RAM minimum
 - 6GB free storage
 - Nmap (only needed for the `protect` scan command)
-- Probably Linux, as Windows Slop is SLOP
+- Linux preferred (Arch based systems)
 
 ## Setup
 
